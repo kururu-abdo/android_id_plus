@@ -1,8 +1,8 @@
 name: android_id_plus
 description: A stable and highly reliable Flutter plugin to get the unique Android ID using the Settings.Secure.ANDROID_ID API.
 version: 0.0.1
-homepage: https://github.com/your_username/android_id_plus # رابط مستودعك (اختياري لكن مهم للتقييم)
-repository: https://github.com/your_username/android_id_plus
+homepage: https://https://github.com/kururu-abdo/android_id_plus # رابط مستودعك (اختياري لكن مهم للتقييم)
+repository: https://https://github.com/kururu-abdo/android_id_plus
 
 environment:
   sdk: ^3.11.4
